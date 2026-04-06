@@ -1,0 +1,29 @@
+﻿PublishDate,Updated,AzureId,Title,Description,Link,Categories
+3/5/2026 6:15,3/5/2026 6:15,558102,Retirement: Azure Policy faster enforcement and retirement of login/logout workaround,"Over the years, we’ve made significant investments to improve the responsiveness of the Azure Policy service. As a result, policy assignment creation and updates for Resource Manager mode policies now get enforced within 5 minutes.In light of cache refres",https://azure.microsoft.com/updates?id=558102,"Management and governance, Azure Policy, Compliance"
+3/3/2026 10:00,3/3/2026 10:00,558072,[Launched] Generally Available: Draft & Deploy on Azure Firewall,"The new Draft & Deploy feature for Azure Firewall Policy
+introduces a streamlined, two-phase approach to managing firewall policies,
+significantly reducing deployment time and disruption. Traditionally, any
+policy update would trigger a full deployment of",https://azure.microsoft.com/updates?id=558072,"Launched, Networking, Security, Azure Firewall, Features, Security, Services"
+3/3/2026 4:15,3/3/2026 4:15,558060,[Launched] Generally Available: Azure Databricks update workspace network configuration,"Azure
+Databricks workspaces have two network configurations – Azure
+Databricks-managed VNet and VNet Injection. The ability to update the Network
+Configuration of your workspace is now generally available. This enhancement
+provides greater flexibility and",https://azure.microsoft.com/updates?id=558060,"Launched, AI + machine learning, Analytics, Azure Databricks, Features"
+3/3/2026 4:15,3/3/2026 4:15,557991,[Launched] Generally Available: Azure Databricks Lakebase ,"Today we’re announcing the General Availability of Azure Databricks Lakebase, a managed PostgreSQL environment with next generation separation of storage and compute for OLTP, providing instant availability, instant clones, and scale-to-zero. Lakebase let",https://azure.microsoft.com/updates?id=557991,"Launched, AI + machine learning, Analytics, Azure Databricks, Features"
+2/28/2026 8:15,2/28/2026 8:15,558078,[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North,"Azure Premium SSD v2 is now available in a third Availability Zone in New Zealand North.   Azure Premium SSD v2 disk, a next-generation general-purpose block storage option for Azure virtual machines, offers sub-millisecond latencies and exceptional price",https://azure.microsoft.com/updates?id=558078,"Launched, Storage, Azure Disk Storage, Features, Services"
+2/28/2026 8:15,2/28/2026 8:15,558051,"[Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMs","The DCesv6, DCedsv6,
+ECesv6, and ECedsv6 series are Azure’s next generation
+of confidential Virtual Machines (VMs) based on 5th Gen
+Intel® Xeon® processors with Intel® Trust Domain Extensions (Intel® TDX). These
+new confidential VMs help organizations to ",https://azure.microsoft.com/updates?id=558051,"Launched, Compute, Virtual Machines, Features, Services"
+2/28/2026 6:45,2/28/2026 6:45,555839,Retirement: Managed NGINX Ingress with Application Routing Add-on Retiring November 2026,"The upstream Ingress-NGINX project is being deprecated and will stop receiving updates after March 2026. Microsoft will continue providing critical security patches through 30 November 2026, after which the NGINX ingress controller will no longer be suppo",https://azure.microsoft.com/updates?id=555839,"Compute, Containers, Azure Kubernetes Service (AKS), Retirements, Open Source"
+2/28/2026 2:30,2/28/2026 2:30,557897,"[Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central","Azure Red Hat OpenShift is now generally available in three additional Azure regions: Malaysia West, New Zealand North, and Mexico Central. This expansion strengthens Azure Red Hat OpenShift’s presence across Asia Pacific and Latin America, enabling custo",https://azure.microsoft.com/updates?id=557897,"Launched, Containers, Azure Red Hat OpenShift, Features, Open Source, Regions & Datacenters"
+2/27/2026 4:45,2/27/2026 4:45,557694,[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity ,"We’re excited to announce the addition of enhanced
+secure authentication in Azure Storage that combines the flexibility of
+user-delegation shared access signature (SAS) with the user-bound access of
+Entra ID. User-bound user delegation SAS is now in previ",https://azure.microsoft.com/updates?id=557694,"In preview, Storage, Azure Blob Storage, Features, Security"
+2/26/2026 9:30,2/26/2026 9:30,552808,[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline,"We are announcing several
+capabilities in public preview with Azure Monitor pipeline. Secure
+     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with
+     Bring Your Own Certificates: BYOC empowers enterprises to maintain
+     contro",https://azure.microsoft.com/updates?id=552808,"In preview, DevOps, Management and governance, Azure Monitor, Features"
